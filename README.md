@@ -21,7 +21,7 @@ Perfect for integration into existing software, dashboards, bots, or notificatio
 
 This tool automatically scans the [Epic Games Store](https://store.epicgames.com) and parses the latest **free game giveaways**, including their names, dates, status, and images.
 <p>
-   <img src="egs-free-games-image.jpg" alt="Epic Games Store Free Games Image" width="400" class="centered" />
+   <img src="egs-free-games-image.jpg" alt="Epic Games Store Free Games Image" width="400" />
 </p>
 
 ## 🧪 Sample Output (JSON)
